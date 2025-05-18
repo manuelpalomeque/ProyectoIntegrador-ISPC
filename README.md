@@ -23,11 +23,11 @@
 
 ## Vista previa del proyecto
 
-![Principal](./screenshot.png)
-![Vista inicial sin nada en el buscador](./screenshot.png)
-![Vista inicial de estadisticas sin nada en el buscador](./screenshot.png)
-![Con filtro de busqueda](./screenshot.png)
-![Estadistica con filtro de busqueda](./screenshot.png)
-![Cuando no hay resultados](./screenshot.png)
+![Principal](./1-Principal.png)
+![Vista inicial sin nada en el buscador](./2-Vistainicialelementos.png)
+![Vista inicial de estadisticas sin nada en el buscador](./3-estadisticas.png)
+![Con filtro de busqueda](./4-filtro.png)
+![Estadistica con filtro de busqueda](./5-Estadisticasconfiltro.png)
+![Cuando no hay resultados](./6- elementosyestadisticassinresultados.png)
 
 ## Evidencia n° 2:
