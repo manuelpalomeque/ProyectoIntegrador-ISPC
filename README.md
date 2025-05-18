@@ -27,7 +27,7 @@
 ![Vista inicial sin nada en el buscador](./public/2-Vistainicialelementos.png)
 ![Vista inicial de estadisticas sin nada en el buscador](./public/3-estadisticas.png)
 ![Con filtro de busqueda](./public/4-filtro.png)
-![Estadistica con filtro de busqueda](./public/-Estadisticasconfiltro.png)
+![Estadistica con filtro de busqueda](./public/5-Estadisticasconfiltro.png)
 ![Cuando no hay resultados](./public/6-%20elementosyestadisticassinresultados.png)
 
 ## Evidencia n° 2:
